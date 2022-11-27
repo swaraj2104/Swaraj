@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is 325F-5BB8
+
+ Directory of C:\Users\SwarajVitthaldas\Git
+
+27-11-2022  11:28    <DIR>          .
+27-11-2022  11:15    <DIR>          ..
+27-11-2022  11:00               386 index.html
+27-11-2022  11:28                 0 test2.txt
+27-11-2022  10:59                16 testing.txt
+               3 File(s)            402 bytes
+               2 Dir(s)  57,294,077,952 bytes free
